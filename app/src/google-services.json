@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "759932465572",
+    "firebase_url": "https://feedity-629e1.firebaseio.com",
+    "project_id": "feedity-629e1",
+    "storage_bucket": "feedity-629e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759932465572:android:0b3aa93e83b50861",
+        "android_client_info": {
+          "package_name": "com.example.chakradhar.feedity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759932465572-h05dot5qmti84ok5sht1f894rc2oo4b5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chakradhar.feedity",
+            "certificate_hash": "3292f86580c4a3a50515cb585d80d697d65905c6"
+          }
+        },
+        {
+          "client_id": "759932465572-egu6p4a0rkmms7k0g37vpnqd8rqonblh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfL20dU-fAdb1Qui1ZRN7Ahlp_4_oBXmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759932465572-egu6p4a0rkmms7k0g37vpnqd8rqonblh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
